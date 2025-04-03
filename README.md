@@ -36,12 +36,6 @@ The KNN classifier achieved its best performance with 8 neighbors, reaching an a
 2. Install required packages: `pip install numpy pandas matplotlib scikit-learn`
 3. Run the Jupyter notebook or Python script
 
-## Future Improvements
-- Experiment with other classification algorithms (Random Forest, SVM, etc.)
-- Implement feature selection techniques
-- Develop a web interface for practical use
-- Explore deep learning approaches
-
 ## Acknowledgments
 - Dataset source: [insert source if known]/given dataset.csv
 - Inspired by similar machine learning healthcare projects
